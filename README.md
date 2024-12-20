@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile
+# Welcome to My GitHub Profile!
 
 ## About Me
 
@@ -12,6 +12,8 @@ A passionate and experienced Team Lead Data Scientist with a strong background d
 - **Cloud Platforms**: AWS, Azure
 
 ## Publications
+
+![](https://static.vecteezy.com/system/resources/previews/000/359/482/original/science-banner-chemical-laboratory-skull-books-apple-glasses-table-vector-flat-illustration.jpg)
 
 Best place is to browse [ORCID](https://orcid.org/0000-0002-1899-3149)
 
