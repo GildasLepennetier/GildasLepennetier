@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**GildasLepennetier/GildasLepennetier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm Gildas!
+A passionate and experienced Team Lead Data Scientist with a strong background data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages**: Python, R, SQL, Bash, 
+- **Databases**: MySQL
+- **Cloud Platforms**: AWS, Azure
+
+## Publications
+
+Best place is to browse [ORCID](https://orcid.org/0000-0002-1899-3149)
+
+Feel free to explore my repositories and connect with me!
+
