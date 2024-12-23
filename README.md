@@ -3,13 +3,20 @@
 ## About Me
 
 Hello! I'm Gildas!
-A passionate and experienced Team Lead Data Scientist with a strong background data analysis.
-
-## Skills
+A passionate and experienced Team Lead Data Scientist with a strong background data analysis
 
 - **Programming Languages**: Python, R, SQL, Bash, 
 - **Databases**: MySQL
 - **Cloud Platforms**: AWS, Azure
+
+## Languages
+- French, English, German
+
+## Trainings
+- **Guide!** internal Lateral Leader training (Laterale Führung)
+- **Lead!** internal Disciplinary leadership training (disziplinarische Führung)
+- **Burda Digital Degree**: internal top-training to develop digital products. 9 months, 10 people.
+
 
 ## Publications
 
